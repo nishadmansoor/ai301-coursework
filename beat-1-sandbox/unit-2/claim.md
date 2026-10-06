@@ -1,0 +1,1 @@
+I’m going to investigate and reproduce the output parser issue described here, specifically the failure when the parser receives a top-level JSON array as the fallback output shape. I’ll run the relevant output parser test against the current repository code and follow up with a reproduction report documenting my environment, steps, and observed results.
